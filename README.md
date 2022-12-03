@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mujupatel41@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12HgKnTCL8WEN9vVUxObxZpnt4zt2BxlF/view?usp=share_link](https://drive.google.com/file/d/12HgKnTCL8WEN9vVUxObxZpnt4zt2BxlF/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12HgKnTCL8WEN9vVUxObxZpnt4zt2BxlF/view?usp=share_link](https://drive.google.com/file/d/12r2uoSYbde4jlzKvkFHK-jCqtXoTpcP1/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

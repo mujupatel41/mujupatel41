@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on My New Project [YourFitness](https://hilarious-meerkat-c185ec.netlify.app/)
 
-- 🌱 I’m currently learning **Bootstrap, Chakra Ui**
+- 🌱 I’m currently learning **ReactJs, FullStack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mujupatel41/Projects](https://github.com/mujupatel41/Projects)
 
-- 💬 Ask me about **Javascript, Python, DSA, HTML, CSS, Bootstrap.**
+- 💬 Ask me about **Javascript, Java, Python, DSA, HTML, CSS, Bootstrap.**
 
 - 📫 How to reach me **mujupatel41@gmail.com**
 

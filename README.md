@@ -8,6 +8,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mujupatel41@gmail.com**
+- 
 <img align="right" alt="coding" src="https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujupatel41" alt="mujupatel41" /></a> </p>

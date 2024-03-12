@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm @mujupatel (Mujaffar Patel)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujupatel41&label=Profile%20views&color=0e75b6&style=flat" alt="mujupatel41" /> </p>
-<img align="right" alt="coding" src="https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270"/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujupatel41" alt="mujupatel41" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mujupatel41" target="blank"><img src="https://img.shields.io/twitter/follow/mujupatel41?logo=twitter&style=for-the-badge" alt="mujupatel41" /></a> </p>
+<img align="right" alt="coding" 
 
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mujupatel41@gmail.com**
+  src="https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270"/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujupatel41" alt="mujupatel41" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mujupatel41" target="blank"><img src="https://img.shields.io/twitter/follow/mujupatel41?logo=twitter&style=for-the-badge" alt="mujupatel41" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

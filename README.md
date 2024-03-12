@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mujaffar Patel</h1>
+<h1 align="center">Hi 👋, I'm @mujupatel41 (Mujaffar Patel)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on My New Project [YourFitness](https://hilarious-meerkat-c185ec.netlify.app/)

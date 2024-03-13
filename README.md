@@ -3,8 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding width="400" src="https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270"/>
 
-a href="https://github.com/mujupatel41"><img src="https://camo.githubusercontent.com/52c6bfd9304f5304be0ce67c30ded0854a86de220caaefcca4a1493d81c298cc/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f616b617368646565703032332f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/mujupatel41/count.svg">
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujupatel41&label=Profile%20views&color=0e75b6&style=flat" alt="mujupatel41" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mujupatel41" target="blank"><img src="https://img.shields.io/twitter/follow/mujupatel41?logo=twitter&style=for-the-badge" alt="mujupatel41" /></a> </p>
 

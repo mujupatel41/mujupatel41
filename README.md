@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujupatel41&label=Profile%20views&color=0e75b6&style=flat" alt="mujupatel41" /> </p>
 <br/>
 
-<h2>- 👀 I’m interested in coding.<h2/>
+<h3>- 👀 I’m interested in coding.<h3/>
 
 - 🌱 **I’m currently learning React Native**
 

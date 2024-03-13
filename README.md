@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mujupatel41" target="blank"><img src="https://img.shields.io/twitter/follow/mujupatel41?logo=twitter&style=for-the-badge" alt="mujupatel41" /></a> </p>
 
-- 👀 I’m interested in **coding.**
+- 👀 **I’m interested in coding.**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 **I’m currently learning React Native**
 
-- 🌱 I’m currently learning Web development & React. **& MERN**
+- 🌱 **I’m currently learning Web development & React.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.bolgspot.com/-7A4WynwLsMw/xbBpCXG8fHI/AAAAAAAAMt4/u0a1bLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm @mujupatel (Mujaffar Patel)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding width="400" src="https://camo.githubusercontent.com/297e1667ff8088b19512a771403d5b921535c6b1abc61d1b32889c245a0b96e6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270"/>

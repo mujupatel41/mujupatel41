@@ -4,7 +4,7 @@
   <b style="color: blue;  ">Visitor count</b>
   <br>
   <a style="" href="https://github.com/mujupatel41">
-  <img src="https://profile-counter.glitch.me/airbnb-project/count.svg" />
+  <img src="https://profile-counter.glitch.me/mujupatel41/count.svg" />
   </a>
 </p>
 <br/>

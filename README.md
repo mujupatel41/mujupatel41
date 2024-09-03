@@ -16,7 +16,7 @@
 - <p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://github.com/mujupatel41">https://github.com/mujupatel41</a></p>
 - <p dir="auto">💬 Ask me about <strong>MERN Stack</strong></p>
 - <p dir="auto">📫 How to reach me <strong><a href="mailto:mujupatel41@gmail.com">mujupatel41@gmail.com</a></strong></p>
-- <p dir="auto">🤝 Connect with me on  <a href="https://linkedin.com/in/mujupatel41" rel="nofollow"><img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
+- <p dir="auto">🤝 Connect with me on  <a href="https://linkedin.com/in/mujupatel41" rel="nofollow"><img src="https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
 <br/>
 <br/>
 <br/>

@@ -60,19 +60,19 @@
 <h2>💻 Some stats 💻</h2>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mujupatel41&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=mujupatel41&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mujupatel41&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mujupatel41&show_icons=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mujupatel41&show_icons=true"  />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujupatel41&theme=tokyonight&layout=donut-vertical)](https://github.com/mujupatel41/github-readme-stats)
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mujupatel41&show_icons=true&locale=en&layout=compact" alt="mujupatel41" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujupatel41&show_icons=true&theme=dark" alt="mujupatel41" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujupatel41&" alt="mujupatel41" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujupatel41&theme=dark" alt="mujupatel41" /></p>

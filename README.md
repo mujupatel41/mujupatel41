@@ -131,3 +131,52 @@
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
+
+<markdown-accessiblity-table data-catalyst=""><table>
+<thead>
+<tr>
+<th align="center"><code>S.No</code></th>
+<th align="left"><code>Small Project</code></th>
+<th align="center"><code>Live Link</code></th>
+<th align="center"><code>GitHub Link</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><code>01</code></td>
+<td align="left"><code>ChargeOn Clone</code></td>
+<td align="center"><a href="https://unrivaled-platypus-4c93f2.netlify.app/" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><a href="https://github.com/mujupatel41/cautious-kiss-7720.git"><code>Repository</code></a></td>
+</tr>
+<tr>
+<td align="center"><code>02</code></td>
+<td align="left"><code>MyFitness Clone</code></td>
+<td align="center"><a href="https://hilarious-meerkat-c185ec.netlify.app/" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><a href="https://github.com/mujupatel41/Projects.git"><code>Repository</code></a></td>
+</tr>
+<tr>
+<td align="center"><code>04</code></td>
+<td align="left"><code>Card Project Js</code></td>
+<td align="center"><a href="https://legendary-heliotrope-4c73ab.netlify.app/" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><code>No Repository</code></td>
+</tr>
+<tr>
+<td align="center"><code>04</code></td>
+<td align="left"><code>E-Commerce</code></td>
+<td align="center"><a href="https://tubular-youtiao-c3f8db.netlify.app/" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><code>No Repository</code></td>
+</tr>
+<tr>
+<td align="center"><code>04</code></td>
+<td align="left"><code>Todo App</code></td>
+<td align="center"><a href="https://tiny-sopapillas-4c9259.netlify.app/" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><code>No Repository</code></td>
+</tr>
+<tr>
+<td align="center"><code>03</code></td>
+<td align="left"><code>HTML CSS Practice</code></td>
+<td align="center"><a href="https://vermillion-fenglisu-db2e6b.netlify.app/" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><code>No Repository</code></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>

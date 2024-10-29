@@ -78,6 +78,25 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujupatel41&theme=dark" alt="mujupatel41" /></p>
 </div>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🧑&zwj;🏫 All Projects</h2><a id="user-content--all-projects" class="anchor" aria-label="Permalink: 🧑&zwj;🏫 All Projects" href="#-all-projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-
-
+<markdown-accessiblity-table data-catalyst=""><table>
+<thead>
+<tr>
+<th align="center"><code>S.No</code></th>
+<th align="left"><code>Major Project</code></th>
+<th align="center"><code>Live Link</code></th>
+<th align="center"><code>GitHub Link</code></th>
+<th align="center"><code>Linked Post</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><code>01</code></td>
+<td align="left"><code>Airbnb Project</code></td>
+<td align="center"><a href="https://major-project-q6sa.onrender.com" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><a href="https://github.com/mujupatel41/Major-Project.git"><code>Repository</code></a></td>
+<td align="center"><a href="https://www.linkedin.com/posts/mujupatel41_airbnb-holiday-rentals-cabins-beach-activity-7256903235217596416-TlRe?utm_source=share&utm_medium=member_desktop" rel="nofollow"><code>Post</code></a></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>

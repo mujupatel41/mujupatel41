@@ -155,7 +155,7 @@
 <td align="center"><a href="https://github.com/mujupatel41/Projects.git"><code>Repository</code></a></td>
 </tr>
 <tr>
-<td align="center"><code>04</code></td>
+<td align="center"><code>03</code></td>
 <td align="left"><code>Card Project Js</code></td>
 <td align="center"><a href="https://legendary-heliotrope-4c73ab.netlify.app/" rel="nofollow"><code>Link</code></a></td>
 <td align="center"><code>No Repository</code></td>
@@ -167,13 +167,13 @@
 <td align="center"><code>No Repository</code></td>
 </tr>
 <tr>
-<td align="center"><code>04</code></td>
+<td align="center"><code>05</code></td>
 <td align="left"><code>Todo App</code></td>
 <td align="center"><a href="https://tiny-sopapillas-4c9259.netlify.app/" rel="nofollow"><code>Link</code></a></td>
 <td align="center"><code>No Repository</code></td>
 </tr>
 <tr>
-<td align="center"><code>03</code></td>
+<td align="center"><code>06</code></td>
 <td align="left"><code>HTML CSS Practice</code></td>
 <td align="center"><a href="https://vermillion-fenglisu-db2e6b.netlify.app/" rel="nofollow"><code>Link</code></a></td>
 <td align="center"><code>No Repository</code></td>

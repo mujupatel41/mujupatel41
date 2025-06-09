@@ -114,18 +114,24 @@
 <tbody>
 <tr>
 <td align="center"><code>01</code></td>
+<td align="left"><code>TodoApp React JS</code></td>
+<td align="center"><a href="https://todowithtailwindandreactjs.netlify.app/" rel="nofollow"><code>Link</code></a></td>
+<td align="center"><a href="https://github.com/mujupatel41/TodoApp.git"><code>Repository</code></a></td>
+</tr>
+<tr>
+<td align="center"><code>02</code></td>
 <td align="left"><code>SimonSay Game JS</code></td>
 <td align="center"><a href="https://simon-says-game-by-mujupatel41.netlify.app/" rel="nofollow"><code>Link</code></a></td>
 <td align="center"><a href="https://github.com/mujupatel41/Simon-Say-Game.git"><code>Repository</code></a></td>
 </tr>
 <tr>
-<td align="center"><code>02</code></td>
+<td align="center"><code>03</code></td>
 <td align="left"><code>Spotify Clone</code></td>
 <td align="center"><a href="https://spotify-clone-41.netlify.app/" rel="nofollow"><code>Link</code></a></td>
 <td align="center"><a href="https://github.com/mujupatel41/Spotify-Clone.git"><code>Repository</code></a></td>
 </tr>
 <tr>
-<td align="center"><code>03</code></td>
+<td align="center"><code>04</code></td>
 <td align="left"><code>Slidebar Menu</code></td>
 <td align="center"><a href="https://slider-bar-41.netlify.app/" rel="nofollow"><code>Link</code></a></td>
 <td align="center"><a href="https://github.com/mujupatel41/SideBar_Menu.git"><code>Repository</code></a></td>

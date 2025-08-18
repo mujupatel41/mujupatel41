@@ -3,7 +3,7 @@
   <b style="color: blue;  ">Visitor count</b>
   <br>
   <a style="" href="https://github.com/mujupatel41">
-  <img src="https://profile-counter.glitch.me/mujupatel41/count.svg" />
+  <img src="https://page-visitor.vercel.app/mujupatel41/count.svg" />
   </a>
 </p>
 <img align="right" alt="Coding width="400" src="https://camo.githubusercontent.com/1cb9dec9d4429777089da32b5653ad9fc66cfbce958ae58d707b7aadb48039dd/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270"/>

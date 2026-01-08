@@ -118,7 +118,7 @@
 <tbody>
 <tr>
 <td align="center"><code>01</code></td>
-<td align="left"><code>WeatherAppReact JS</code></td>
+<td align="left"><code>WeatherApp React JS</code></td>
 <td align="center"><a href="https://weatherappbymujupatel41.netlify.app/" rel="nofollow"><code>Link</code></a></td>
 <td align="center"><a href="https://github.com/mujupatel41/Weather_App"><code>Repository</code></a></td>
 </tr>

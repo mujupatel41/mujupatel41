@@ -7,7 +7,7 @@
   <b style="color: blue;  ">Visitor count</b>
   <br>
   <a style="" href="https://github.com/mujupatel41">
-  <img src="https://page-visitor.vercel.app/mujupatel41/count.svg" />
+  <img src="https://page-visitor.vercel.app/mujupatel41/count.svg">
   </a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/320a4f21734164024351d1209d634382a7510d9df4aaa5358f41d6dd36a0caff/68747470733a2f2f76616c6573682e6465762f696d616765732f636f6465722e676966" data-canonical-src="https://valesh.dev/images/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
